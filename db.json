@@ -242,5 +242,22 @@
       "last_updated": "2022-01-01 10:10:00",
       "updated_by": "admin"
     }
+  ],
+  "part_sales": [
+    {
+      "id": "0001",
+      "part_sales_no": "0001",
+      "part_no": "0001",
+      "part_name": "part name",
+      "last_part_status_id": "0001",
+      "quantity": "2",
+      "customer_id": "0001",
+      "customer_name": "budi",
+      "notes": "sales notes",
+      "pic_name": "pic name",
+      "pic_hp": "089765362514",
+      "last_updated": "2022-01-01 10:10:00",
+      "updated_by": "admin"
+    }
   ]
 }
