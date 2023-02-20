@@ -168,11 +168,11 @@
       "id": "0001",
       "sq_no": "0001",
       "rr_ticket_no": "0001",
-      "status_work_name": "0001",
-      "date_created": "0001",
-      "notes": "0001",
-      "last_updated": "0001",
-      "updated_by": "0001"
+      "status_work_name": "work name",
+      "date_created": "2023-10-10",
+      "notes": "notes",
+      "last_updated": "2023-10-10 10:10:10",
+      "updated_by": "admin"
     }
   ]
 }
