@@ -174,5 +174,19 @@
       "last_updated": "2023-10-10 10:10:10",
       "updated_by": "admin"
     }
+  ],
+  "laststatus_part": [
+    {
+      "id": "0001",
+      "sq_no": "0001",
+      "so_ticket_no": "0001",
+      "pr_ticket_no": "0001",
+      "rr_ticket_no": "0001",
+      "part_status_id": "0001",
+      "date_created": "2023-10-10",
+      "notes": "status notes",
+      "last_updated": "2023-10-10",
+      "updated_by": "admin"
+    }
   ]
 }
