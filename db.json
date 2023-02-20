@@ -30,5 +30,45 @@
       "last_update": "2023-10-10 01:01:01",
       "updated_by": "admin"
     }
+  ],
+  "sot": [
+    {
+        "id" : "1",
+        "so_ticket_no" : "0001",
+        "contract_id" : "1",
+        "customer_id" : "1",
+        "se_id" : "1",
+        "on_duty_se_id" : "1",
+        "on_duty_se_hp" : "089988888888",
+        "entity_id" : "1",
+        "machine_vendor_id" : "1",
+        "machine_model_id" : "1",
+        "machine_id" : "1",
+        "machine_location" : "Jakarta",
+        "operation_hour_id" : "1",
+        "operation_hour_name" : "morning",
+        "priority_id" : "1",
+        "severity_id" : "1",
+        "service_type_id" : "1",
+        "problem_type_id" : "1",
+        "problem_desc" : "lorem ipsum",
+        "pic_name" : "Dani",
+        "pic_hp" : "089765362514",
+        "pic_vendor" : "Lorem",
+        "service_base_id" : "1",
+        "reported_date" : "2023-02-02",
+        "created_date" : "2023-02-02",
+        "closed_date" : "2023-02-02",
+        "last_status_work_id" : "1",
+        "problem_finding" : "problem_finding",
+        "corrective_action" : "corrective_action",
+        "prt_status" : "ready",
+        "ticket_duration" : "2 hours",
+        "sla_response_name" : "name",
+        "sla_resolve_name" : "name",
+        "sla_resolution_name" : "name",
+        "last_updated" : "2023-01-01 10:00:00",
+        "updated_by" : "admin"
+    }
   ]
 }
