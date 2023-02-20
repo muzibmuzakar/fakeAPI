@@ -225,5 +225,22 @@
       "last_updated": "2022-01-01 10:10:00",
       "updated_by": "admin"
     }
+  ],
+  "part_received": [
+    {
+      "id": "0001",
+      "so_ticket_no": "0001",
+      "pr_ticket_no": "0001",
+      "rr_ticket_no": "0001",
+      "part_order_request_no": "0001",
+      "supplier_id": "0001",
+      "supplier_name": "supplier name",
+      "part_no": "0001",
+      "part_name": "part name",
+      "part_sn": "0001",
+      "quantity": "2",
+      "last_updated": "2022-01-01 10:10:00",
+      "updated_by": "admin"
+    }
   ]
 }
