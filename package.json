@@ -1,0 +1,22 @@
+{
+  "name": "fake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzibmuzakar/fakeAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muzibmuzakar/fakeAPI/issues"
+  },
+  "homepage": "https://github.com/muzibmuzakar/fakeAPI#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
