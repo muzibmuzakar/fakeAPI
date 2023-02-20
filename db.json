@@ -82,5 +82,41 @@
         "last_updated": "2023-02-02 10:00:00",
         "updated_by": "admin"
     }
+  ],
+  "prt_details": [
+    {
+        "id": "1",
+        "pr_ticket_no": "1",
+        "so_ticket_no": "1",
+        "customer_name": "1",
+        "machine_id": "1",
+        "se_id": "1",
+        "problem_finding": "1",
+        "error_code": "1",
+        "requested_part_no": "1",
+        "quantity": "1",
+        "logistic_staff_id": "1",
+        "last_status_work_id": "1",
+        "ticket_duration": "1",
+        "approval_by": "1",
+        "approval_date": "1",
+        "created_date": "1",
+        "part_waiting_preparation_notes": "1",
+        "accepted_date": "1",
+        "prepared_part_no": "1",
+        "prepared_part_quantity": "1",
+        "prepared_by": "1",
+        "part_on_preparation_notes": "1",
+        "part_preparation_date": "1",
+        "delivery_courier_id": "1",
+        "tracking_no": "1",
+        "part_delivery_date": "1",
+        "part_eta": "1",
+        "delivery_by": "1",
+        "received_part_date": "1",
+        "renewal_status": "1",
+        "last_updated": "1",
+        "updated_by": "1"
+    }
   ]
 }
