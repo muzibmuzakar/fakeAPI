@@ -162,5 +162,17 @@
       "last_updated": "2023-12-12 10:00:00",
       "updated_by": "admin"
     }
+  ],
+  "rrt_statuswork": [
+    {
+      "id": "0001",
+      "sq_no": "0001",
+      "rr_ticket_no": "0001",
+      "status_work_name": "0001",
+      "date_created": "0001",
+      "notes": "0001",
+      "last_updated": "0001",
+      "updated_by": "0001"
+    }
   ]
 }
