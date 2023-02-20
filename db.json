@@ -185,7 +185,20 @@
       "part_status_id": "0001",
       "date_created": "2023-10-10",
       "notes": "status notes",
-      "last_updated": "2023-10-10",
+      "last_updated": "2023-10-10 10:10:10",
+      "updated_by": "admin"
+    }
+  ],
+  "part_returned": [
+    {
+      "id": "0001",
+      "rr_ticket_no": "0001",
+      "part_name": "part name",
+      "part_sn": "0001",
+      "part_no": "0001",
+      "part_return_notes": "return notes",
+      "part_return_date": "2023-10-10",
+      "last_updated": "2023-10-10 10:10:10",
       "updated_by": "admin"
     }
   ]
