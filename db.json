@@ -212,5 +212,18 @@
       "last_updated": "2022-01-01 10:10:00",
       "updated_by": "admin"
     }
+  ],
+  "part_order_request": [
+    {
+      "id": "0001",
+      "part_order_request_no": "0001",
+      "part_no": "0001",
+      "part_name": "part name",
+      "quantity": "2",
+      "notes": "part notes",
+      "supporting_doc": "supporting doc",
+      "last_updated": "2022-01-01 10:10:00",
+      "updated_by": "admin"
+    }
   ]
 }
