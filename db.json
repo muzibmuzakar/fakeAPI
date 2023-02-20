@@ -70,5 +70,17 @@
         "last_updated" : "2023-01-01 10:00:00",
         "updated_by" : "admin"
     }
+  ],
+  "sot_statuswork": [
+    {
+        "id": "1",
+        "sq_no": "2",
+        "so_ticket_no": "2",
+        "status_work_name": "arrived",
+        "date_created": "2020-01-01",
+        "notes": "notes",
+        "last_updated": "2023-02-02 10:00:00",
+        "updated_by": "admin"
+    }
   ]
 }
