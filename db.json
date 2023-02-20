@@ -130,5 +130,37 @@
       "last_updated": "2023-02-02 10:10:00",
       "updated_by": "admin"
     }
+  ],
+  "rrt_details": [
+    {
+      "id": "0001",
+      "rr_ticket_no": "0001",
+      "so_ticket_no": "0001",
+      "pr_ticket_no": "0001",
+      "part_id": "0001",
+      "part_name": "part name",
+      "part_sn": "0001",
+      "customer_id": "0001",
+      "service_id": "0001",
+      "contract_id": "0001",
+      "created_date": "2023-12-12",
+      "accepted_rr_ticket_date": "2023-12-12",
+      "repair_center_engineer_id": "0001",
+      "repair_started_date": "2023-12-12",
+      "repair_action": "action",
+      "part_usage_id": "0001",
+      "part_usage_name": "part name",
+      "part_usage_quantity": "1",
+      "last_repaired_part_status": "work",
+      "last_repaired_progress_status": "status",
+      "repair_stopped_date": "2023-12-12",
+      "part_return_notes": "return notes",
+      "part_return_date": "2023-12-12",
+      "last_status_work_id": "0001",
+      "ticket_duration": "2 hours",
+      "renewal_status": "status",
+      "last_updated": "2023-12-12 10:00:00",
+      "updated_by": "admin"
+    }
   ]
 }
