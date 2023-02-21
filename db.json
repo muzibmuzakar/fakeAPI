@@ -259,5 +259,34 @@
       "last_updated": "2022-01-01 10:10:00",
       "updated_by": "admin"
     }
+  ],
+  "part_scrapt": [
+    {
+      "id": "0001",
+      "part_scrap_no": "0001",
+      "part_no": "0001",
+      "part_name": "part name",
+      "quantity": "2",
+      "last_part_status_id": "0001",
+      "notes": "part notes",
+      "last_updated": "2022-01-01 10:10:00",
+      "updated_by": "admin"
+    }
+  ],
+  "part_transfer": [
+    {
+      "id": "0001",
+      "part_transfer_no": "0001",
+      "location_id": "0001",
+      "part_type_id": "0001",
+      "part_type_name": "type name",
+      "part_no": "0001",
+      "part_sn": "0001",
+      "quantity": "2",
+      "last_part_status_id": "0001",
+      "notes": "part notes",
+      "last_updated": "2022-01-01 10:10:00",
+      "updated_by": "admin"
+    }
   ]
 }
