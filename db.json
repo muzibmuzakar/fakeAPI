@@ -260,7 +260,7 @@
       "updated_by": "admin"
     }
   ],
-  "part_scrapt": [
+  "part_scrap": [
     {
       "id": "0001",
       "part_scrap_no": "0001",
@@ -285,6 +285,67 @@
       "quantity": "2",
       "last_part_status_id": "0001",
       "notes": "part notes",
+      "last_updated": "2022-01-01 10:10:00",
+      "updated_by": "admin"
+    }
+  ],
+  "part_qty_edit": [
+    {
+      "id": "0001",
+      "part_no": "0001",
+      "part_name": "part name",
+      "part_sn": "0001",
+      "notes": "part notes",
+      "supporting_doc": "supporting doc",
+      "last_updated": "2022-01-01 10:10:00",
+      "updated_by": "admin"
+    }
+  ],
+  "part_inventory": [
+    {
+      "id": "0001",
+      "part_no": "0001",
+      "part_name": "part name",
+      "part_desc": "part desc",
+      "machine_model": "part model",
+      "part_type": "part type",
+      "part_sn": "0001",
+      "part_status": "status",
+      "part_location": "bandung",
+      "bin_location": "Jakarta",
+      "quantity": "2",
+      "last_updated": "2022-01-01 10:10:00",
+      "updated_by": "admin"
+    }
+  ],
+  "esign_upload": [
+    {
+      "id": "0001",
+      "so_ticket_no": "0001",
+      "date_created": "2020-01-01",
+      "e-sign_image": "image.jpg",
+      "last_updated": "2022-01-01 10:10:00",
+      "updated_by": "admin"
+    }
+  ],
+  "sot_file_upload": [
+    {
+      "id": "0001",
+      "so_ticket_no": "0001",
+      "uploaded_file": "image.jpg",
+      "date_created": "2023-10-10",
+      "status_work": "status work",
+      "last_updated": "2022-01-01 10:10:00",
+      "updated_by": "admin"
+    }
+  ],
+  "prt_file_upluad": [
+    {
+      "id": "0001",
+      "pr_ticket_no": "0001",
+      "uploaded_file": "image.jpg",
+      "date_created": "2023-10-10",
+      "status_work": "status work",
       "last_updated": "2022-01-01 10:10:00",
       "updated_by": "admin"
     }
