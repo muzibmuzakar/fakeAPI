@@ -349,5 +349,130 @@
       "last_updated": "2022-01-01 10:10:00",
       "updated_by": "admin"
     }
+  ],
+  "entity": [
+    {
+      "id": "0001",
+      "alias": "alias",
+      "name": "entity name",
+      "desc": "entity desc",
+      "is_active": "true",
+      "adr": "Jl. Setiabudhi",
+      "prov": "DKI Jakarta",
+      "owner": "admin",
+      "hp": "089823456789",
+      "last_updated": "2022-01-01 10:10:00",
+      "updated_by": "admin"
+    }
+  ],
+  "customer": [
+    {
+      "id": "0001",
+      "alias": "alias",
+      "name": "customer name",
+      "desc": "customer desc",
+      "customer_type_id": "0001",
+      "is_active": "true",
+      "adr": "Jl. Setiabudhi",
+      "prov": "DKI Jakarta",
+      "pic": "dani",
+      "pic_hp": "089765362514",
+      "last_updated": "2023-01-01 10:00:00",
+      "updated_by": "admin"
+    }
+  ],
+  "customer_type": [
+    {
+      "id": "0001",
+      "alias": "alias",
+      "name": "customer type name",
+      "desc": "customer type desc",
+      "is_active": "true",
+      "last_updated": "2023-01-01 12:00:00",
+      "updated_by": "admin"
+    }
+  ],
+  "manager": [
+    {
+      "id": "0001",
+      "user_id": "0001",
+      "mgr_id": "0001",
+      "alias": "alias",
+      "name": "manager name",
+      "is_active": "true",
+      "timezone_id": "0001",
+      "last_updated": "2023-01-01 10:00:00",
+      "updated_by": "admin"
+    }
+  ],
+  "team_leader": [
+    {
+      "id": "0001",
+      "user_id": "0001",
+      "tl_id": "0001",
+      "alias": "alias",
+      "name": "leader name",
+      "mgr_id": "0001",
+      "is_active": "true",
+      "timezone_id": "0001",
+      "last_updated": "2023-01-01 12:00:00",
+      "updated_by": "admin"
+    }
+  ],
+  "service_engineer": [
+    {
+      "id": "0001",
+      "user_id": "0001",
+      "se_id": "0001",
+      "alias": "alias",
+      "name": "se name",
+      "hp_no": "089876543212",
+      "tl_id": "0001",
+      "is_active": "true",
+      "service_base_id": "0001",
+      "region": "west",
+      "timezone_id": "0001",
+      "last_updated": "2023-01-01 10:00:00",
+      "updated_by": "admin"
+    }
+  ],
+  "role": [
+    {
+      "id": "0001",
+      "name": "role name",
+      "desc": "role desc",
+      "last_updated": "2023-01-01 10:00:00",
+      "updated_by": "admin"
+    }
+  ],
+  "time_zone": [
+    {
+      "id": "0001",
+      "name": "time zone name",
+      "last_updated": "2023-01-01 10:00:00",
+      "updated_by": "admin"
+    }
+  ],
+  "service_base": [
+    {
+      "id": "0001",
+      "name": "service base name",
+      "city": "Jakarta Selatan",
+      "last_updated": "2023-01-01 10:00:00",
+      "updated_by": "admin"
+    }
+  ],
+  "operation_hour": [
+    {
+      "id": "0001",
+      "name": "OH name",
+      "desc": "OH Desc",
+      "open_hour": "08:00:00",
+      "close_hour": "17:00:00",
+      "days": "6",
+      "is_active": "true",
+      "last_updated": "2023-01-01 10:00:00",
+      "updated_by": "admin"
+    }
   ]
 }
